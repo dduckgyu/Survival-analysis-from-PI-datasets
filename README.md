@@ -10,10 +10,10 @@ CNN Models:
 ResNet18, ResNet50, GoogLeNet, MobileNetv2, DenseNet
 
 Survival Models:
-Cox Proportional Hazard(CoxPH)
-Piecewise Exponential (Pw Exp)
-DeepSurv
-PC-Hazard
+1. Cox Proportional Hazard(CoxPH)
+2. Piecewise Exponential (Pw Exp)
+3. DeepSurv
+4. PC-Hazard
 ---
 # Results
 
