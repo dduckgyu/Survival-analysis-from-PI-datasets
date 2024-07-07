@@ -4,5 +4,5 @@
 
 ----
 
-
+![그림1](https://github.com/gyugyukim/Survival-analysis/assets/135569056/5497f632-ed57-4944-9f82-07a229689173)
 ---
