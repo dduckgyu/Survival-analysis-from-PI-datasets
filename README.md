@@ -29,7 +29,7 @@ Survival Models:
 2. Piecewise Exponential (Pw Exp) [ Statistic Based ]
 3. DeepSurv [ Deep learning Based ]
 4. PC-Hazard [ Deep learning Based ]
----
+----
 # Results
 
 - Train, Val, Test : 60% 20% 20% 진행
