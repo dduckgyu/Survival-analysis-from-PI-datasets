@@ -16,4 +16,4 @@ DeepSurv
 PC-Hazard
 ---
 # Results
-<img src="https://github.com/gyugyukim/Survival-analysis/assets/135569056/0a0694cc-2817-4956-82bc-1fb3d97283c5" width="700" height="370">
+<img src="https://github.com/gyugyukim/Survival-analysis/assets/135569056/0a0694cc-2817-4956-82bc-1fb3d97283c5" width="1000" height="370">
