@@ -21,4 +21,4 @@ PC-Hazard
 <img src="https://github.com/gyugyukim/Survival-analysis/assets/135569056/0a0694cc-2817-4956-82bc-1fb3d97283c5" width="1200" height="370">
 
 2. Kaplan Meier Curve Estimation
-<img src="https://github.com/gyugyukim/Survival-analysis/assets/135569056/2c684f00-e184-4cdc-a332-acbe10790869" width="700" height="370">
+<img src="https://github.com/gyugyukim/Survival-analysis/assets/135569056/2c684f00-e184-4cdc-a332-acbe10790869">
