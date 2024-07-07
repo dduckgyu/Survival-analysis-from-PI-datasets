@@ -7,7 +7,11 @@
 <img src="https://github.com/gyugyukim/Survival-analysis/assets/135569056/5497f632-ed57-4944-9f82-07a229689173" width="700" height="370">
 
 CNN Models:
-ResNet18, ResNet50, GoogLeNet, MobileNetv2, DenseNet
+1. ResNet18
+2. ResNet50
+3. GoogLeNet
+4. MobileNetv2
+5. DenseNet
 
 Survival Models:
 1. Cox Proportional Hazard(CoxPH)
