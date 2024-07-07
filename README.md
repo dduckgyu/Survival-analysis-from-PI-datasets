@@ -56,6 +56,7 @@ Survival Models:
 - 딥러닝 기반 모델들이 전반적으로 위험 그룹간의 유의미한 차이를 보여주는 것을 확인.
 
 3. Log Rank Test
+
 <img src="https://github.com/gyugyukim/Survival-analysis/assets/135569056/37e8d2fd-2f23-4dea-8720-d565320e345e>
 
 - 위험 그룹 간들 사이에 예측된 생존 예측률이 통계적으로 유의미한 차이가 존재하는 지 확인하기 위해 로그-랭크 검정 추가적으로 진행
