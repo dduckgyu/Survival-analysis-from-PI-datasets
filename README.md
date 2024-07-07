@@ -13,7 +13,7 @@
 3. 괴사 조직 제거술과 같은 처치가 필요했던 욕창의 경우, 처치 전의 이미지들이 데이터 셋에 포함
 
 - 결과적으로 948명의 환자로부터 948명의 이미지 영상 구성
-----
+
 # PipeLine
 <img src="https://github.com/gyugyukim/Survival-analysis/assets/135569056/5497f632-ed57-4944-9f82-07a229689173" width="700" height="370">
 
@@ -29,7 +29,7 @@ Survival Models:
 2. Piecewise Exponential (Pw Exp) [ Statistic Based ]
 3. DeepSurv [ Deep learning Based ]
 4. PC-Hazard [ Deep learning Based ]
-----
+
 # Results
 
 - Train, Val, Test : 60% 20% 20% 진행
