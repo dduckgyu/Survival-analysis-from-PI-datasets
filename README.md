@@ -21,7 +21,7 @@ Survival Models:
 ---
 # Results
 
-1. Performance metric: Concordance Indx(C-index)
+1. Performance metric : Concordance Index (C-index)
 <img src="https://github.com/gyugyukim/Survival-analysis/assets/135569056/0a0694cc-2817-4956-82bc-1fb3d97283c5" width="1200" height="370">
 
 2. Kaplan Meier Curve Estimation
