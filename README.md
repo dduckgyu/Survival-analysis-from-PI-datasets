@@ -44,7 +44,7 @@ Survival Models:
 
 
 1. Performance metric : Concordance Index (C-index)
-<img src="https://github.com/gyugyukim/Survival-analysis/assets/135569056/0a0694cc-2817-4956-82bc-1fb3d97283c5" width="1200" height="370">
+<img src="https://github.com/gyugyukim/Survival-analysis/assets/135569056/0a0694cc-2817-4956-82bc-1fb3d97283c5">
 
 - 모두 Deep learning - Based 모델들이 전반적으로 우수한 성능을 보임을 확인.
 - 이것은 Feature Extraction 과정과 Survival Analysis 과정을 End-To-End로 학습을 진행하는 딥러닝 기반 분석이 개개인의 위험 분석 성능을 개선 시킬 수 있음을 보여줌
